@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d333b&height=120&section=header&text=Hi,%20I'm%20Andres&fontSize=36&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Building%20Python%20tools%20%26%20SaaS%20%E2%80%A2%20Miami,%20FL&descAlignY=55&descColor=8b949e&cachebuster=1" width="100%"/>
-
-# Hi, I'm Andres 👋
+# Hi, I'm Mendez 👋
 > Building Python tools & SaaS from Miami, FL
 
 ![](https://img.shields.io/badge/Open%20to%20collab-%233fb950?style=flat-square&logoColor=white)
